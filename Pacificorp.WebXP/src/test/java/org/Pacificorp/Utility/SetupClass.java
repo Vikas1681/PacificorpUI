@@ -26,7 +26,7 @@ public class SetupClass {
 	}
 
 	public void openURL() {
-		driver.get("https://www.facebook.com/");
+		driver.get("https://csappstest.pacificpower.net");
 	}
 
 	public static void main(String[] args) {

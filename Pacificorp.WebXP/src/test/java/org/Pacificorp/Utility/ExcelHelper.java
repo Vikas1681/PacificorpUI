@@ -39,6 +39,8 @@ public class ExcelHelper {
 		System.out.println(noOfRowsInTestOutputFile);
 		writerSheet.createRow(noOfRowsInTestOutputFile).createCell(0, CellType.STRING).setCellValue("Property_Name");
 		writerSheet.createRow(noOfRowsInTestOutputFile + 1).createCell(0, CellType.STRING).setCellValue(uiPropertyName);
+		writerSheet.createRow(noOfRowsInTestOutputFile + 2).createCell(0, CellType.STRING)
+				.setCellValue(uiPropertyName + "_" + "co-ordinates");
 
 	}
 
@@ -53,24 +55,26 @@ public class ExcelHelper {
 		for (int i = 0; i < list.size(); i++) {
 			System.out.println("Size of the list" + list.size());
 			if (i == 0) {
-				writerSheet.getRow(noOfRowsInTestOutputFile - 2).createCell(cellNo, CellType.STRING)
+				writerSheet.getRow(noOfRowsInTestOutputFile - 3).createCell(cellNo, CellType.STRING)
 						.setCellValue("count");
-				writerSheet.getRow(noOfRowsInTestOutputFile - 1).createCell(cellNo, CellType.STRING)
-						.setCellValue(list.size() + 1);
+				writerSheet.getRow(noOfRowsInTestOutputFile - 2).createCell(cellNo, CellType.STRING)
+						.setCellValue(list.size());
 				cellNo++;
 			}
 			if (i > 0) {
-				writerSheet.getRow(noOfRowsInTestOutputFile - 2).createCell(cellNo, CellType.STRING)
+				writerSheet.getRow(noOfRowsInTestOutputFile - 3).createCell(cellNo, CellType.STRING)
 						.setCellValue("Text" + i);
-				writerSheet.getRow(noOfRowsInTestOutputFile - 1).createCell(cellNo, CellType.STRING)
+				writerSheet.getRow(noOfRowsInTestOutputFile - 2).createCell(cellNo, CellType.STRING)
 						.setCellValue(list.get(i - 1).getText());
+				writerSheet.getRow(noOfRowsInTestOutputFile - 1).createCell(cellNo, CellType.STRING).setCellValue(
+						list.get(i - 1).getLocation().getX() + "," + list.get(i - 1).getLocation().getY());
 				cellNo++;
 			}
 
 		}
 		try {
 			fos = new FileOutputStream(
-					System.getProperty("user.dir") + "\\" + "TestUIOutput" + dtf.format(now) + ".xlsx");
+					System.getProperty("user.dir") + "\\" + "test-output" +"\\"+ "TestUIOutput" + dtf.format(now) + ".xlsx");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}

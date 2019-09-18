@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-09-18T10:03:32Z" name="Default suite" finished-at="2019-09-18T10:03:57Z" duration-ms="24567">
+  <suite name="Command line suite" duration-ms="8669" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:12:01Z">
     <groups>
     </groups>
-    <test started-at="2019-09-18T10:03:32Z" name="Default test" finished-at="2019-09-18T10:03:57Z" duration-ms="24567">
-      <class name="org.Pacificorp.Test.FacebookTest">
-        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:org.Pacificorp.Test.FacebookTest@548e6d58]" started-at="2019-09-18T10:03:32Z" name="BeforeClass" finished-at="2019-09-18T10:03:50Z" duration-ms="18104" status="PASS">
+    <test name="Command line test" duration-ms="8669" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:12:01Z">
+      <class name="org.Pacificorp.Test.WebXPTest">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="BeforeClass" is-config="true" duration-ms="4847" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:11:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method signature="captureButtonTextAndCount()[pri:0, instance:org.Pacificorp.Test.FacebookTest@548e6d58]" started-at="2019-09-18T10:03:50Z" name="captureButtonTextAndCount" finished-at="2019-09-18T10:03:55Z" duration-ms="4337" status="PASS">
+        <test-method status="PASS" signature="captureButtonTextAndCount()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="captureButtonTextAndCount" duration-ms="1500" started-at="2019-09-18T13:11:58Z" finished-at="2019-09-18T13:11:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureButtonTextAndCount -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.Pacificorp.Test.FacebookTest@548e6d58]" started-at="2019-09-18T10:03:55Z" name="closeBrowser" finished-at="2019-09-18T10:03:57Z" duration-ms="2082" status="PASS">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="closeBrowser" is-config="true" duration-ms="2311" started-at="2019-09-18T13:11:59Z" finished-at="2019-09-18T13:12:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- org.Pacificorp.Test.FacebookTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- org.Pacificorp.Test.WebXPTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
