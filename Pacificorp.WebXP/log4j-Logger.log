@@ -1,0 +1,195 @@
+2019-09-18 23:15:35 INFO  AutomationUIPOC:126 - creating sheet to write the test findings
+2019-09-18 23:15:37 INFO  AutomationUIPOC:49 - Chrome Browser Stared
+2019-09-18 23:15:39 INFO  AutomationUIPOC:51 - Chrome Browser Maximized
+2019-09-18 23:15:39 INFO  AutomationUIPOC:54 - Launching WebXP Application
+2019-09-18 23:15:39 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-0
+2019-09-18 23:15:39 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:15:39 INFO  AutomationUIPOC:86 - capturing buttons and storing them in list
+2019-09-18 23:15:39 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:15:39 INFO  AutomationUIPOC:155 - writing following Test Findings:-count13
+2019-09-18 23:15:39 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text1 Value:- Location:-0,0
+2019-09-18 23:15:39 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text2 Value:-MY ACCOUNT Location:-472,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text3 Value:-OUTAGES & SAFETY Location:-610,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text4 Value:-SAVINGS & ENERGY CHOICES Location:-786,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text5 Value:- Location:-1029,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text6 Value:- Location:-0,0
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text7 Value:- Location:-0,0
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text8 Value:- Location:-1089,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text9 Value:- Location:-1149,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text10 Value:-SIGN IN Location:-1209,28
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text11 Value:- Location:-0,0
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text12 Value:-SIGN IN Location:-73,572
+2019-09-18 23:15:40 INFO  AutomationUIPOC:175 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-15-34.xlsx
+2019-09-18 23:15:40 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:15:40 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:15:40 INFO  AutomationUIPOC:96 - capturing links and storing them in list
+2019-09-18 23:15:40 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-6
+2019-09-18 23:15:40 INFO  AutomationUIPOC:155 - writing following Test Findings:-count37
+2019-09-18 23:15:40 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text1 Value:-MY ACCOUNT Location:-452,28
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text2 Value:-OUTAGES & SAFETY Location:-590,28
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text3 Value:-SAVINGS & ENERGY CHOICES Location:-766,28
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text4 Value:-SIGN IN Location:-1189,28
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text5 Value:-What's this? Location:-223,530
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text6 Value:-Forgot User ID? Location:-73,669
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text7 Value:-Forgot or change password? Location:-73,688
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text8 Value:-start service form Location:-733,415
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text9 Value:-ABOUT Location:-73,774
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text10 Value:-Contact Us Location:-73,805
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text11 Value:-Innovation & Environment Location:-73,825
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text12 Value:-Careers Location:-73,845
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text13 Value:-Newsroom Location:-73,865
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text14 Value:-Rates & Regulation Location:-73,885
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text15 Value:-Transmission Projects Location:-73,905
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text16 Value:-Resource Center Location:-73,925
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text17 Value:-COMMUNITY Location:-378,774
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text18 Value:-Areas We Serve Location:-378,805
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text19 Value:-Foundation Location:-378,825
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text20 Value:-Economic Development Location:-378,845
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text21 Value:-Outdoor Recreation Location:-378,865
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text22 Value:-Workshops & Events Location:-378,885
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text23 Value:-Blue Sky Community Projects Location:-378,905
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text24 Value:-WORKING WITH US Location:-682,774
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text25 Value:-Business Customers Location:-682,805
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text26 Value:-Builders & Contractors Location:-682,825
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text27 Value:-Line Extension Estimator Location:-682,845
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text28 Value:-Landlords & Property Managers Location:-682,865
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text29 Value:-Municipalities Location:-682,885
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text30 Value:-Suppliers Location:-682,905
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text31 Value:-Wireless Carriers Location:-682,925
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text32 Value:-PacifiCorp Location:-307,977
+2019-09-18 23:15:41 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text33 Value:-Berkshire Hathaway Energy Location:-468,977
+2019-09-18 23:15:42 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text34 Value:-FAQs Location:-73,1031
+2019-09-18 23:15:42 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text35 Value:-Español Location:-123,1031
+2019-09-18 23:15:42 INFO  AutomationUIPOC:166 - writing following Test Findings:-Text36 Value:-Privacy Location:-190,1031
+2019-09-18 23:15:42 INFO  AutomationUIPOC:175 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-15-34.xlsx
+2019-09-18 23:15:44 INFO  AutomationUIPOC:68 - closing Chrome Browser
+2019-09-18 23:17:25 INFO  AutomationUIPOC:126 - creating sheet to write the test findings
+2019-09-18 23:17:28 INFO  AutomationUIPOC:49 - Chrome Browser Stared
+2019-09-18 23:17:29 INFO  AutomationUIPOC:51 - Chrome Browser Maximized
+2019-09-18 23:17:29 INFO  AutomationUIPOC:54 - Launching WebXP Application
+2019-09-18 23:17:29 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-0
+2019-09-18 23:17:29 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:17:30 INFO  AutomationUIPOC:86 - capturing buttons and storing them in list
+2019-09-18 23:17:30 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:17:30 INFO  AutomationUIPOC:154 - writing following Test Findings:-count13
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text1 Value:- Location:-0,0
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text2 Value:-MY ACCOUNT Location:-472,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text3 Value:-OUTAGES & SAFETY Location:-610,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text4 Value:-SAVINGS & ENERGY CHOICES Location:-786,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text5 Value:- Location:-1029,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text6 Value:- Location:-0,0
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text7 Value:- Location:-0,0
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text8 Value:- Location:-1089,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text9 Value:- Location:-1149,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text10 Value:-SIGN IN Location:-1209,28
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text11 Value:- Location:-0,0
+2019-09-18 23:17:30 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text12 Value:-SIGN IN Location:-73,572
+2019-09-18 23:17:30 INFO  AutomationUIPOC:174 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-17-25.xlsx
+2019-09-18 23:17:30 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:17:30 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:17:30 INFO  AutomationUIPOC:96 - capturing links and storing them in list
+2019-09-18 23:17:31 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-6
+2019-09-18 23:17:31 INFO  AutomationUIPOC:154 - writing following Test Findings:-count37
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text1 Value:-MY ACCOUNT Location:-452,28
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text2 Value:-OUTAGES & SAFETY Location:-590,28
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text3 Value:-SAVINGS & ENERGY CHOICES Location:-766,28
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text4 Value:-SIGN IN Location:-1189,28
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text5 Value:-What's this? Location:-223,530
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text6 Value:-Forgot User ID? Location:-73,669
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text7 Value:-Forgot or change password? Location:-73,688
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text8 Value:-start service form Location:-733,415
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text9 Value:-ABOUT Location:-73,774
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text10 Value:-Contact Us Location:-73,805
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text11 Value:-Innovation & Environment Location:-73,825
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text12 Value:-Careers Location:-73,845
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text13 Value:-Newsroom Location:-73,865
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text14 Value:-Rates & Regulation Location:-73,885
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text15 Value:-Transmission Projects Location:-73,905
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text16 Value:-Resource Center Location:-73,925
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text17 Value:-COMMUNITY Location:-378,774
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text18 Value:-Areas We Serve Location:-378,805
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text19 Value:-Foundation Location:-378,825
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text20 Value:-Economic Development Location:-378,845
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text21 Value:-Outdoor Recreation Location:-378,865
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text22 Value:-Workshops & Events Location:-378,885
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text23 Value:-Blue Sky Community Projects Location:-378,905
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text24 Value:-WORKING WITH US Location:-682,774
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text25 Value:-Business Customers Location:-682,805
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text26 Value:-Builders & Contractors Location:-682,825
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text27 Value:-Line Extension Estimator Location:-682,845
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text28 Value:-Landlords & Property Managers Location:-682,865
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text29 Value:-Municipalities Location:-682,885
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text30 Value:-Suppliers Location:-682,905
+2019-09-18 23:17:31 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text31 Value:-Wireless Carriers Location:-682,925
+2019-09-18 23:17:32 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text32 Value:-PacifiCorp Location:-307,977
+2019-09-18 23:17:32 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text33 Value:-Berkshire Hathaway Energy Location:-468,977
+2019-09-18 23:17:32 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text34 Value:-FAQs Location:-73,1031
+2019-09-18 23:17:32 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text35 Value:-Español Location:-123,1031
+2019-09-18 23:17:32 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text36 Value:-Privacy Location:-190,1031
+2019-09-18 23:17:32 INFO  AutomationUIPOC:174 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-17-25.xlsx
+2019-09-18 23:17:34 INFO  AutomationUIPOC:68 - closing Chrome Browser
+2019-09-18 23:19:16 INFO  AutomationUIPOC:126 - creating sheet to write the test findings
+2019-09-18 23:19:19 INFO  AutomationUIPOC:49 - Chrome Browser Stared
+2019-09-18 23:19:20 INFO  AutomationUIPOC:51 - Chrome Browser Maximized
+2019-09-18 23:19:20 INFO  AutomationUIPOC:54 - Launching WebXP Application
+2019-09-18 23:19:20 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-0
+2019-09-18 23:19:20 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:19:20 INFO  AutomationUIPOC:86 - capturing buttons and storing them in list
+2019-09-18 23:19:20 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:19:20 INFO  AutomationUIPOC:154 - writing following Test Findings:-count13
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text1 Value:- Location:-0,0
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text2 Value:-MY ACCOUNT Location:-472,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text3 Value:-OUTAGES & SAFETY Location:-610,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text4 Value:-SAVINGS & ENERGY CHOICES Location:-786,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text5 Value:- Location:-1029,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text6 Value:- Location:-0,0
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text7 Value:- Location:-0,0
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text8 Value:- Location:-1089,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text9 Value:- Location:-1149,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text10 Value:-SIGN IN Location:-1209,28
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text11 Value:- Location:-0,0
+2019-09-18 23:19:21 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text12 Value:-SIGN IN Location:-73,572
+2019-09-18 23:19:21 INFO  AutomationUIPOC:174 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-19-16.xlsx
+2019-09-18 23:19:21 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-3
+2019-09-18 23:19:21 INFO  AutomationUIPOC:131 - Creating rows and columns to write the test findings
+2019-09-18 23:19:21 INFO  AutomationUIPOC:96 - capturing links and storing them in list
+2019-09-18 23:19:22 INFO  AutomationUIPOC:141 - No of rows present in the sheet:-6
+2019-09-18 23:19:22 INFO  AutomationUIPOC:154 - writing following Test Findings:-count37
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text1 Value:-MY ACCOUNT Location:-452,28
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text2 Value:-OUTAGES & SAFETY Location:-590,28
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text3 Value:-SAVINGS & ENERGY CHOICES Location:-766,28
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text4 Value:-SIGN IN Location:-1189,28
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text5 Value:-What's this? Location:-223,530
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text6 Value:-Forgot User ID? Location:-73,669
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text7 Value:-Forgot or change password? Location:-73,688
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text8 Value:-start service form Location:-733,415
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text9 Value:-ABOUT Location:-73,774
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text10 Value:-Contact Us Location:-73,805
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text11 Value:-Innovation & Environment Location:-73,825
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text12 Value:-Careers Location:-73,845
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text13 Value:-Newsroom Location:-73,865
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text14 Value:-Rates & Regulation Location:-73,885
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text15 Value:-Transmission Projects Location:-73,905
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text16 Value:-Resource Center Location:-73,925
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text17 Value:-COMMUNITY Location:-378,774
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text18 Value:-Areas We Serve Location:-378,805
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text19 Value:-Foundation Location:-378,825
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text20 Value:-Economic Development Location:-378,845
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text21 Value:-Outdoor Recreation Location:-378,865
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text22 Value:-Workshops & Events Location:-378,885
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text23 Value:-Blue Sky Community Projects Location:-378,905
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text24 Value:-WORKING WITH US Location:-682,774
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text25 Value:-Business Customers Location:-682,805
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text26 Value:-Builders & Contractors Location:-682,825
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text27 Value:-Line Extension Estimator Location:-682,845
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text28 Value:-Landlords & Property Managers Location:-682,865
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text29 Value:-Municipalities Location:-682,885
+2019-09-18 23:19:22 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text30 Value:-Suppliers Location:-682,905
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text31 Value:-Wireless Carriers Location:-682,925
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text32 Value:-PacifiCorp Location:-307,977
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text33 Value:-Berkshire Hathaway Energy Location:-468,977
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text34 Value:-FAQs Location:-73,1031
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text35 Value:-Español Location:-123,1031
+2019-09-18 23:19:23 INFO  AutomationUIPOC:165 - writing following Test Findings:-Text36 Value:-Privacy Location:-190,1031
+2019-09-18 23:19:23 INFO  AutomationUIPOC:174 - Test Output is saved at C:\Users\sa_qa_user\Git1\PacificorpUI\Pacificorp.WebXP\test-output\TestUIOutput2019-09-1823-19-16.xlsx
+2019-09-18 23:19:25 INFO  AutomationUIPOC:68 - closing Chrome Browser

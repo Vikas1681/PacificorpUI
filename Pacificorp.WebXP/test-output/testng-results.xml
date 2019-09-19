@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="8669" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:12:01Z">
+  <suite name="Default suite" duration-ms="9421" started-at="2019-09-19T06:19:16Z" finished-at="2019-09-19T06:19:25Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="8669" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:12:01Z">
-      <class name="org.Pacificorp.Test.WebXPTest">
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="BeforeClass" is-config="true" duration-ms="4847" started-at="2019-09-18T13:11:53Z" finished-at="2019-09-18T13:11:58Z">
+    <test name="Default test" duration-ms="9421" started-at="2019-09-19T06:19:16Z" finished-at="2019-09-19T06:19:25Z">
+      <class name="org.Pacificorp.Test.AutomationUIPOC">
+        <test-method status="PASS" signature="beforeClassSetup()[pri:0, instance:org.Pacificorp.Test.AutomationUIPOC@185d8b6]" name="beforeClassSetup" is-config="true" duration-ms="4874" started-at="2019-09-19T06:19:16Z" finished-at="2019-09-19T06:19:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="captureButtonTextAndCount()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="captureButtonTextAndCount" duration-ms="1500" started-at="2019-09-18T13:11:58Z" finished-at="2019-09-18T13:11:59Z">
+        </test-method> <!-- beforeClassSetup -->
+        <test-method status="PASS" signature="captureButtonTextAndCount()[pri:0, instance:org.Pacificorp.Test.AutomationUIPOC@185d8b6]" name="captureButtonTextAndCount" duration-ms="2223" started-at="2019-09-19T06:19:20Z" finished-at="2019-09-19T06:19:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureButtonTextAndCount -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.Pacificorp.Test.WebXPTest@68fb2c38]" name="closeBrowser" is-config="true" duration-ms="2311" started-at="2019-09-18T13:11:59Z" finished-at="2019-09-18T13:12:01Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.Pacificorp.Test.AutomationUIPOC@185d8b6]" name="closeBrowser" is-config="true" duration-ms="2312" started-at="2019-09-19T06:19:23Z" finished-at="2019-09-19T06:19:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- org.Pacificorp.Test.WebXPTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+      </class> <!-- org.Pacificorp.Test.AutomationUIPOC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
